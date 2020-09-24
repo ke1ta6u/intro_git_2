@@ -4,4 +4,5 @@ git add
 git commit
 git add
 git commit
-変更
+git rm
+git status
